@@ -1,6 +1,7 @@
 [project]
 title = Racer2D
 version = 0.1
+custom_resources = main/levels/level01.wp.json
 
 [bootstrap]
 main_collection = /main/main.collectionc
@@ -36,4 +37,5 @@ debug = 0
 [trainer]
 enable = 0
 level = level01
+
 
